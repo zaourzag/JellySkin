@@ -44,9 +44,9 @@
 	"author": "Zakaria Aourzag",
 	"license": "GPL-3.0-only",
 	"bugs": {
-		"url": "https://github.com/prayag17/JellySkin/issues"
+		"url": "https://github.com/zaourzag/JellySkin/issues"
 	},
-	"homepage": "https://github.com/prayag17/JellySkin#readme",
+	"homepage": "https://github.com/zaourzag/JellySkin#readme",
 	"dependencies": {
 		"express": "^4.18.2",
 		"npm": "^9.8.1"
