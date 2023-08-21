@@ -1,6 +1,6 @@
 {
-	"name": "jellyskin",
-	"version": "12.3.6",
+	"name": "@zakariaa/jellyskin",
+	"version": "12.3.7",
 	"description": "A vibrant skin for jellyfin made with SASS",
 	"files": [
 		"/dist"
@@ -41,10 +41,14 @@
 		"css",
 		"jellyskin"
 	],
-	"author": "prayag17",
+	"author": "Zakaria Aourzag",
 	"license": "GPL-3.0-only",
 	"bugs": {
 		"url": "https://github.com/prayag17/JellySkin/issues"
 	},
-	"homepage": "https://github.com/prayag17/JellySkin#readme"
+	"homepage": "https://github.com/prayag17/JellySkin#readme",
+	"dependencies": {
+		"express": "^4.18.2",
+		"npm": "^9.8.1"
+	}
 }
